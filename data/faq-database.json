@@ -1,0 +1,88 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "categoria": "general",
+      "pregunta": "¿Qué es este chat con IA?",
+      "respuesta": "Este es un asistente virtual impulsado por IA que utiliza el modelo Mixtral-8x7b para responder preguntas y ayudarte con diferentes temas.",
+      "tags": ["introducción", "ayuda", "general"]
+    },
+    {
+      "id": 2,
+      "categoria": "uso",
+      "pregunta": "¿Cómo puedo hacer una pregunta?",
+      "respuesta": "Simplemente escribe tu pregunta en el campo de texto en la parte inferior y presiona 'Enviar' o la tecla Enter. La IA procesará tu pregunta y te dará una respuesta.",
+      "tags": ["instrucciones", "ayuda"]
+    },
+    {
+      "id": 3,
+      "categoria": "técnico",
+      "pregunta": "¿Se guardan mis conversaciones?",
+      "respuesta": "Sí, todas las conversaciones se guardan localmente en tu navegador usando localStorage. Puedes acceder a tu historial cada vez que regreses.",
+      "tags": ["privacidad", "datos"]
+    },
+    {
+      "id": 4,
+      "categoria": "capacidades",
+      "pregunta": "¿Qué tipo de preguntas puedo hacer?",
+      "respuesta": "Puedes hacer preguntas sobre una amplia variedad de temas. La IA está entrenada para proporcionar información general, ayuda técnica, explicaciones y más.",
+      "tags": ["funcionalidad", "uso"]
+    },
+    {
+      "id": 5,
+      "categoria": "técnico",
+      "pregunta": "¿Qué modelo de IA utiliza?",
+      "respuesta": "Este chat utiliza el modelo Mixtral-8x7b a través de la API de Groq, que es un modelo de lenguaje avanzado capaz de entender y generar texto en múltiples idiomas.",
+      "tags": ["tecnología", "especificaciones"]
+    }
+  ],
+  "categorias": [
+    {
+      "id": "general",
+      "nombre": "Información General",
+      "descripcion": "Preguntas básicas sobre el chat"
+    },
+    {
+      "id": "uso",
+      "nombre": "Cómo Usar",
+      "descripcion": "Instrucciones y guías de uso"
+    },
+    {
+      "id": "técnico",
+      "nombre": "Información Técnica",
+      "descripcion": "Detalles técnicos y especificaciones"
+    },
+    {
+      "id": "capacidades",
+      "nombre": "Capacidades",
+      "descripcion": "Lo que puede hacer el chat"
+    }
+  ],
+  "grupos_palabras": [
+    {
+      "id": 0,
+      "palabras": ["cuenta", "la-nube", "insondable", "vacío-fértil", "eterno", "inmanente", "oculta", "nada", "posibilidad", "espacio", "permite", "cifra", "infinitud", "potencial", "deseo", "silencio", "disuelve", "gracia", "incognoscible", "a-la-vez", "pregunta", "curiosidad", "oportunidad", "sorpresa", "contempla", "secreto"]
+    },
+    {
+      "id": 1,
+      "palabras": ["creación", "matriz", "funda", "fuego", "foco", "faro", "lugar", "alef", "ES", "HAY", "orden", "pulsa", "unidad", "espíritu", "lógica", "fuente", "origen", "brilla", "conoce", "discierne", "divorcia", "universión", "verdad", "emana", "confia", "raíz", "claridad", "revela", "implica", "existe", "vibra", "centro", "nuevo", "principio"]
+    },
+    {
+      "id": 2,
+      "palabras": ["ilusión", "separa", "se para", "gesta", "fecunda", "imbrica", "alma", "memoria", "resuena", "registra", "rompe", "siente", "pantalla", "revestimiento", "vasija", "imagen", "ilusión", "velo", "membrana", "paradoja", "recuerda", "parece", "espejo", "parte", "impronta", "reconoce", "reshimó", "cae", "agua"]
+    },
+    {
+      "id": 3,
+      "palabras": ["cuenta", "símbolo", "ambiente", "mente", "sentido", "expande", "poesía", "fractal", "conexión", "lenguaje", "analogía", "código", "datos", "telepatía", "aire", "mapea", "contexto", "relaciona", "concatena", "media", "descifra", "reúne", "encuentro", "informa", "capta", "lee", "significa", "vincula", "neshamá"]
+    },
+    {
+      "id": 4,
+      "palabras": ["ya!", "repite", "cosa", "coagula", "ocurre", "completa", "constata", "nace", "templo", "funciona", "humano", "evolución", "tierra", "cristaliza", "entrena", "vida", "hacer", "forma", "ciclos", "reina", "cuerpo", "proceso", "demuestra", "re ocurre", "llega", "fin", "regresa", "acción", "shejiná"]
+    }
+  ],
+  "metadata": {
+    "última_actualización": "2024-03-11",
+    "versión": "1.0",
+    "total_preguntas": 5
+  }
+}
